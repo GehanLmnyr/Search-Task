@@ -1,0 +1,19 @@
+.hamada{
+   border: 1px solid midnightblue;
+   /* width: 50%; */
+   margin: 20px 20px;
+   border-radius: 15px;
+   background-color: gainsboro;
+   text-align: left;
+   padding: 10px;
+}
+#Cname{
+    color: midnightblue;
+    font-weight: lighter;
+}
+p{
+    color: rgb(73, 73, 73);
+    padding-left:2% ;
+    
+}
+
